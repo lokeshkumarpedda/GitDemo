@@ -8,5 +8,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         //Added a commit to see staging area
+
+        //Feature 2 changes
     }
 }
